@@ -11,14 +11,10 @@
             "id": "2b925b19f86073d6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Airway.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Airway"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -168,8 +164,8 @@
   },
   "active": "2b925b19f86073d6",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Airway.md",
+    "conflict-files-obsidian-git.md",
     "config",
     "New Text Document.txt"
   ]
