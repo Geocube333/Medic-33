@@ -3,7 +3,11 @@
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 0,
   "autoPushInterval": 5,
+<<<<<<< HEAD
   "autoPullInterval": 0,
+=======
+  "autoPullInterval": 5,
+>>>>>>> origin/main
   "autoPullOnBoot": true,
   "disablePush": false,
   "pullBeforePush": true,
@@ -16,7 +20,7 @@
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": false,
   "treeStructure": false,
-  "refreshSourceControl": true,
+  "refreshSourceControl": false,
   "basePath": "",
   "differentIntervalCommitAndPush": true,
   "changedFilesInStatusBar": false,
