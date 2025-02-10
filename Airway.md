@@ -165,7 +165,22 @@ Lower Airway:
 
 12. **Discuss the methods for end-tidal carbon dioxide assessment, including its importance. (pp 975–980)**
 
-``
+`CO2 as a natural byproduct of life can indicate that a person is alive and ventilating properly. Capnography is an important tool in regards to ventilation adequacy and is used everywhere from cpr to monitoring an advanced airway device.
+
+`Even if adequate carbon dioxide is produced at a cellular level and returns to the lungs, if ventilations are inadequate then the CO2 may never be eliminated properly. Thus a greater ETCO2 reading should be found in a pt. since they will have more to expel.`
+
+`Now if a pt. is perfusing adequately and making sufficient co2 at a cellular level, a hyperventilating pt. can cause CO2 to be eliminated faster than it's being made causing for a lower ETCO2 reading.`
+
+`Due to how CO2 interacts with alveolar gases, the CO2 concentration in exhaled gases specifically in gases at the end of exhalation will usually approximate the arterial PaCO2 level. The PaCO2 level should sit around 35 and 45mmHg. 
+
+`Because CO2 concentrations are almost negligble in the esophagus, an ETCO2 detecter is a reliable method of confirming an advanced airway.`
+
+`When oxygen delivery to the cells is interupted from conditions that worsen tissue perfusion, then less CO2 is produced and returned to the lungs. This would result in a lower capnography reading.`
+`Similarly in a pt. with cardiac arrest all perfusion stops so no CO2 is allowed to be delivered to the lungs causing for our capnography to not read at all. Although with good chest compressions tissues will become perfused again giving us some type of ETCO2 reading depending on how good the compressions are.`
+
+`When giving effective chest compressions the ETCO2 will increase, once ROSC occurs large amounts of CO2 are returned to the lungs, resulting in an abrupt and sustained increase in ETCO2.`
+
+`When dealing with a cardiac arrest pt. persistently low (<10mmHg) ETCO2 will indicate inadequate chest compressions. However in a prolonged arrest a low ETCO2 despite adequate compressions indicates severe acidosis and minimal CO2 return to the lungs.`
 
 13. **Explain the use of the recovery position to maintain a clear airway. (p 981)**
 %% 14. Describe how to perform the head tilt–chin lift maneuver. (p 982)
