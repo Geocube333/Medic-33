@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 203.5
   },
   "right": {
     "id": "3dbbf782868feac0",
@@ -168,6 +168,7 @@
   },
   "active": "2b925b19f86073d6",
   "lastOpenFiles": [
+    "Untitled",
     "Airway.md",
     "Medic-Notes",
     "Airway.md",
