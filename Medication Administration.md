@@ -136,9 +136,61 @@
 `Signs+Symptoms: Sudden+Severe shooting pain/Tingling/Numbness/Loss of sensation/Loss of movement.`
 `Treatment: Immediately remove and select a different IV site.`
 
-`Arterial Puncture:`
+`Arterial Puncture: It is possible to hit an artery instead of a vein.`
+`Causes: Usually this will happen when going for an EJ IV.`
+`Signs+Symptoms: Bright red blood spurting out of the catheter.`
+`Treatment: Immediately stop the catheter. Hold pressure for 5 minutes or until bleeding stops.`
+
+`Systemic Complications include:`
+
+`Allergic reactions: Self-explanatory.`
+`Causes: A pt. can be allergic to medications/IV solutions/Preservatives in solutions/Cannula material/Antiseptic preparation/Tape.`
+`Signs+Symptoms: mild to severe allergy symptoms (i.e Chills/Fever/Hives/Itching/SOB/Wheezing)`
+
+`Pyrogenic reactions: Pyrogens are foreign proteins capable of causing fever.`
+`Causes: Some infusion solutions contain pyrogens that can induce a pyrogenic reaction. Usually faulty bags that have been compromised are likely to cause pyrogenic reactions.`
+`Signs+Symptoms: Abrupt high temperature/Severe chills/Backache/Headache/Weakness/Nausea/Vomiting/Vascular collpase/Shock`
+`Treatment: Stop lines immediately with any complaints of backache or a headache. Start a new IV line with a new IV solution. Treat for shock as needed.`
+`NOTE: it takes roughly 30 minutes after an IV infusion to see signs+symptoms.`
+
+`Circulatory Overload: Administering too much fluid leading to health issues such as pulmonary edema. Pt.s with Cardiac/Pulmonary/Renal dysfunction are at higher risk.
+`Causes: Not readjusting the drip rate after flushing an IV line before insertion.`
+`Signs+Symptoms: Anxiety/Dyspnea/Crackles/Cough/JVD/Bounding pulse/Hypertension.`
+`Treatment: Slow IV rate/Use Semi-Fowler position to ease respiratory distress/Administer Oxygen if hypoxic/Monitor Vital signs+breathing/Use CPAP to push fluid out of lungs/Rapid transport.`
+
+`Speed Shock: Rapidly introducing a medication to the circulation`
+`Causes: Giving a medication at rate that is too high.`
+`Signs+Symptoms: Dizziness/Anxiety/Pounding headache/Chills/Dyspnea/Tachycardia/Possible cardiac arrest.`
+`Treatment: Stop the infusion but keep the IV line; Monitor vitals and provide supportive care.`
+
+`Air Embolus: Air entering the bloodstream that acts as an embolus.`
+`Causes: Air can enter during IV insertion/When tubing gets disconnected/When a solutions container runs out.`
+`Signs+Symptoms: Sudden hypotension/Pallor/Cyanosis/Cool+clammy skin/Weak+thready+rapid pulse/Chest+shoulder+back pain/Diminished Level of Consciousness/Respiratory arrest.`
+`Treatment: Position with the left side down/Administer Oxygem/Rapid transport/Possible ventilations.`
+`NOTE: by positioning the pt.on their left side, the air embolus will get trapped in the right atrium/ventricle.`
+
+`Vasovagal Reactions: A vasovagal syncope can occur with the body overreacting to a certain trigger like needles or blood.`
+`Causes: Sight of blood or needles etc leading to a pt.s veins dilating causing a BP drop eventually resulting in fainting.`
+`Signs+Symptoms: Sweaty palms/Feelings of warmness/Nausea/Dizziness/Light-headedness/Pale+diaphoretic/Fainting.`
+`Treatment: Position Supine/Administer Oxygen/Monitor vitals/Supportive care/Transport`
+`NOTE: Symptoms usually quickly subside when placed Supine.`
+
+`Catheter Shear: When part of a catheter gets lodged into a pt.s bloodstream.`
+`Causes: When a catheter gets pinched against a needle, causing the needle to slice the cannula leaving the pt. with a piece of cannula in their circulation.`
+`Signs+Symptoms: Sudden severe pain/Reduced+absent blood return when checking catheter placement/Sudden Dyspnea/Hypotension/Tachycardia/Chest pain/Cyanosis/Loss of consciousness.`
+`Treatment: Surgical removal is required. Place pt. in left lateral recumbent position with an elevated head position. Obtain an IV in opposite extremity and transport.`
+`NOTE: if the Catheter shear happens but doesn't go far, a pt. may be asymptomatic.`
 
 16. **Discuss transport considerations for a patient undergoing a blood transfusion. (p 827)**
+
+`Medics need to verify the following: Pt.s name/Medical record number/Product being transfused/Unit number of the transfused product/ABO+RH type of product/Expiration date of the unit.`
+
+`Some medics carry type O blood for emergency transfusions.`
+
+`Any blood must be used within 4 hours, or returned to a blood bank.`
+
+`Vitals must be obtained before infusion begins, in order to compare it with vitals that are grabbed during infusion to identify trends in pt.s vitals. Vitals must be assessed every 5 minutes. Closely monitor for Transfusion reactions. Saving the Blood bag and tubing for anaylsis by a blood bank.`
+
 17. **Discuss the advantages, disadvantages, and techniques for establishing an intraosseous (IO) line. (pp 827–834)**
 18. **List the types of IO devices available. (pp 829–831)**
 19. **Discuss the potential complications of IO infusion. (pp 831 drip rate. (pp 839–843)
