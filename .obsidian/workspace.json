@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Medical, Legal, and Ethical Issues.md",
+                "file": "Medication Administration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Medical, Legal, and Ethical Issues"
+              "title": "Medication Administration"
             }
           }
         ],
@@ -197,9 +197,9 @@
   },
   "active": "e39dc92d321bfb04",
   "lastOpenFiles": [
+    "Airway.md",
     "Medication Administration.md",
     "Medical, Legal, and Ethical Issues.md",
-    "Airway.md",
     "Untitled",
     "Medic-Notes",
     "conflict-files-obsidian-git.md",
