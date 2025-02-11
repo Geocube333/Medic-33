@@ -1,5 +1,5 @@
 
-**This will be a reference outline of the current chapter. All Airway Questions should be expanded upon and explored deeper in seperate pages.**
+**This will be a reference outline of the current chapter. All Airway Questions should be expanded upon and explored deeper in separate pages.**
 
 Airway Management, Respiration, and Artificial Ventilation:
 
