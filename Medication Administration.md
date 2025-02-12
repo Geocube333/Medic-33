@@ -234,17 +234,27 @@
 `Contraindications: include a Functional IV line availability/Fracture/Various bone degrading diseases/Bilateral knee replacements/Prosthetic limb at IO site.`
 
 21. **Discuss the systems of weights and measures used when administering medication. (pp 837–840)**
-22. **Explain the principles of drug dose calculations, including desired dose, concentration on hand, volume on hand, volume to administer, and IV drip rate. (pp 839–843)**
-23. **Discuss the advantages, disadvantages, and techniques of oral medication administration. (pp 843–844)**
-24. **Discuss the advantages, disadvantages, and techniques of rectal medication administration. (pp 844–845)**
-25. **Discuss the advantages, disadvantages, and techniques of intradermal medication administration. (pp 852–853)**
-26. **Discuss the advantages, disadvantages, and techniques of subcutaneous medication administration. (pp 853–854)**
-27. **Discuss the advantages, disadvantages, and techniques of intramuscular medication administration. (pp 855–857)**
-28. **Discuss the advantages, disadvantages, and techniques of IV medication administration. (pp 857–864)**
-29. **Discuss the advantages, disadvantages, and techniques of IO medication administration. (pp 864–865)**
-30. **Discuss the advantages, disadvantages, and techniques of transdermal medication administration. (pp 865–867)**
-31. **Discuss the advantages, disadvantages, and techniques of sublingual medication administration. (p 867)**
-32. **Discuss other methods of medication administration, including the buccal, ocular, and aural routes. (pp 867–869)**
-33. **Discuss the advantages, disadvantages, and techniques of intranasal medication administration. (p 869)**
-34. **Discuss the advantages, disadvantages, and techniques of inhaled medication administration. (pp 869– 875)**
-35. **Discuss the rates at which medication is absorbed through various routes. (p 878)**
+
+`Weights and measures are calculated in Grams and Liters. Conversion rates are usually seen in strengths of thousands (ie 1kg=1000g 1g=1000mg 1mg=1000ug etc.)`
+
+1. **Explain the principles of drug dose calculations, including desired dose, concentration on hand, volume on hand, volume to administer, and IV drip rate. (pp 839–843)**
+
+`In order to do drug calculations we need to understand the following:`
+`Desired Dose: The amount of a drug that is ordered`
+`Dose on Hand: The concentration of the drug that is available to you`
+`Volume to be Administered: How much mL are you going to administer to a pt.`
+
+
+2. **Discuss the advantages, disadvantages, and techniques of oral medication administration. (pp 843–844)**
+3. **Discuss the advantages, disadvantages, and techniques of rectal medication administration. (pp 844–845)**
+4. **Discuss the advantages, disadvantages, and techniques of intradermal medication administration. (pp 852–853)**
+5. **Discuss the advantages, disadvantages, and techniques of subcutaneous medication administration. (pp 853–854)**
+6. **Discuss the advantages, disadvantages, and techniques of intramuscular medication administration. (pp 855–857)**
+7. **Discuss the advantages, disadvantages, and techniques of IV medication administration. (pp 857–864)**
+8. **Discuss the advantages, disadvantages, and techniques of IO medication administration. (pp 864–865)**
+9. **Discuss the advantages, disadvantages, and techniques of transdermal medication administration. (pp 865–867)**
+10. **Discuss the advantages, disadvantages, and techniques of sublingual medication administration. (p 867)**
+11. **Discuss other methods of medication administration, including the buccal, ocular, and aural routes. (pp 867–869)**
+12. **Discuss the advantages, disadvantages, and techniques of intranasal medication administration. (p 869)**
+13. **Discuss the advantages, disadvantages, and techniques of inhaled medication administration. (pp 869– 875)**
+14. **Discuss the rates at which medication is absorbed through various routes. (p 878)**
