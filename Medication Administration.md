@@ -5,21 +5,21 @@
 
 `Medical Direction is required for certain medications to be administered. Med Control might also help supply you with information needed to administer certain medications. Medcon is useful for aiding in treatment.`
 
-1. **Discuss the benefits of performing a Medication Administration Cross-Check (MACC) before administering a medication. (p 799)**
+2. **Discuss the benefits of performing a Medication Administration Cross-Check (MACC) before administering a medication. (p 799)**
 
 `A MACC check is to be done by 2 providers to ensure that their are no contraindications, the volume is correct, and that the medication is appropriately delivered.`
 
-2. **Explain the importance of properly documenting medication administration. (p 798)**
+3. **Explain the importance of properly documenting medication administration. (p 798)**
 
 `Important documentation can help rule out Medication errors, and in the case of medication erros being made; it can figure out how/who/where the error came from.
 
 `Documentation is also important as a lot of controlled substances need to be properly accounted for.`
 
-3. **Discuss paramedics’ responsibilities related to security of medications stocked on the ambulance. (p 799)**
+4. **Discuss paramedics’ responsibilities related to security of medications stocked on the ambulance. (p 799)**
 
 `A medic is held responsible for the maintence of controlled drugs on their truck.`
 
-4. **Explain the differences between aseptic, clean, and sterile techniques. (p 800)**
+5. **Explain the differences between aseptic, clean, and sterile techniques. (p 800)**
 
 `Aseptic technique: A method of cleansing used to prevent contamination of a site before performing an invasive procedure.`
 
@@ -27,13 +27,13 @@
 
 `Clean technique: Handwashing, use of gloves, keeping equipment clean as possible, and making sure a procedures site is as aseptic/sterile as possible.`
 
-5. **Describe the use of standard precautions related to medication administration. (p 801)**
+6. **Describe the use of standard precautions related to medication administration. (p 801)**
 
 `Standard precautions exist in order to protect ourselves from possible biohazards. This includes ALWAYS assuming fluids to be infectious or properly disposing of sharps.`
 
 `When followed properly standard precautions will lead to a healthier provider.`
 
-6. **Discuss the signs and symptoms that can occur with changes in the body’s fluid status. (pp 801–803)**
+7. **Discuss the signs and symptoms that can occur with changes in the body’s fluid status. (pp 801–803)**
 
 `A pt.s change in body fluid can cause for either dehydration or overhydration.`
 
@@ -45,7 +45,7 @@
 `Symptoms: SOB/Puffy eyelids/Edema/Polyuria/Rales/Acute weight gain.`
 `Causes: Unmonitored IV lines/Kidney failure/Severe kidney dysfunction/Water intoxication/Prolonged hypoventilation.`
 
-7. **List commonly used intravenous (IV) fluid compositions and types of IV solutions. (pp 803–806)**
+8. **List commonly used intravenous (IV) fluid compositions and types of IV solutions. (pp 803–806)**
 
 `Common IV compositions are Human Plasma/.45%, .9%, and 3% NaCl Solutions/LRS`
 `IV compositions can be classified into Crystalloid solutions and Colloid Solutions.`
@@ -62,13 +62,13 @@
 
 `hypertonic solutions will cause fluids from the cells to transfer to the vascular spaces in order to maintain homeostatis, while hypotonic solutions will do the inverse.`
 
-8. **Discuss the techniques for performing IV therapy. (pp 806–821)**
-9. **Discuss the factors to consider when choosing an IV solution. (p 807)** x
-10. **Discuss the factors to consider when choosing an administration set. (pp 808–809)**x
-11. **Discuss the factors to consider when choosing an IV site. (pp 809–812)**x
-12. **List the types of IV catheters. (p 847)**
-13. **Describe special considerations when performing IV therapy on a pediatric or older adult patient. (pp 820–821)**
-14. **List the factors to check if the IV flow rate is incorrect. (p 821)**
+9. **Discuss the techniques for performing IV therapy. (pp 806–821)**
+10. **Discuss the factors to consider when choosing an IV solution. (p 807)** x
+11. **Discuss the factors to consider when choosing an administration set. (pp 808–809)**x
+12. **Discuss the factors to consider when choosing an IV site. (pp 809–812)**x
+13. **List the types of IV catheters. (p 847)**
+14. **Describe special considerations when performing IV therapy on a pediatric or older adult patient. (pp 820–821)**
+15. **List the factors to check if the IV flow rate is incorrect. (p 821)**
 
 
 `Choosing an IV solution is based on the needs of the pt. Pt.s in critical conditions are going to require different solutions than a pt. that needs meds or fluid replacement.`
@@ -95,7 +95,7 @@
 `Constricting band: Make sure to apply/remove when necessary.`
 `IV line positioning: Some lines may need manipulation in order to run properly.`
 
-15. **Describe complications that can occur as a result of IV therapy. (pp 821–825)**
+16. **Describe complications that can occur as a result of IV therapy. (pp 821–825)**
 
 `IV complications are either systemic or localized.`
 `Localized complications include: 
@@ -181,7 +181,7 @@
 `Treatment: Surgical removal is required. Place pt. in left lateral recumbent position with an elevated head position. Obtain an IV in opposite extremity and transport.`
 `NOTE: if the Catheter shear happens but doesn't go far, a pt. may be asymptomatic.`
 
-16. **Discuss transport considerations for a patient undergoing a blood transfusion. (p 827)**
+17. **Discuss transport considerations for a patient undergoing a blood transfusion. (p 827)**
 
 `Medics need to verify the following: Pt.s name/Medical record number/Product being transfused/Unit number of the transfused product/ABO+RH type of product/Expiration date of the unit.`
 
@@ -191,19 +191,60 @@
 
 `Vitals must be obtained before infusion begins, in order to compare it with vitals that are grabbed during infusion to identify trends in pt.s vitals. Vitals must be assessed every 5 minutes. Closely monitor for Transfusion reactions. Saving the Blood bag and tubing for anaylsis by a blood bank.`
 
-17. **Discuss the advantages, disadvantages, and techniques for establishing an intraosseous (IO) line. (pp 827–834)**
-18. **List the types of IO devices available. (pp 829–831)**
-19. **Discuss the potential complications of IO infusion. (pp 831 drip rate. (pp 839–843)
-20. **Discuss the advantages, disadvantages, and techniques of oral medication administration. (pp 843–844)**
-21. **Discuss the advantages, disadvantages, and techniques of rectal medication administration. (pp 844–845)**
-22. **Discuss the advantages, disadvantages, and techniques of intradermal medication administration. (pp 852–853)**
-23. **Discuss the advantages, disadvantages, and techniques of subcutaneous medication administration. (pp 853–854)**
-24. **Discuss the advantages, disadvantages, and techniques of intramuscular medication administration. (pp 855–857)**
-25. **Discuss the advantages, disadvantages, and techniques of IV medication administration. (pp 857–864)**
-26. **Discuss the advantages, disadvantages, and techniques of IO medication administration. (pp 864–865)**
-27. **Discuss the advantages, disadvantages, and techniques of transdermal medication administration. (pp 865–867)**
-28. **Discuss the advantages, disadvantages, and techniques of sublingual medication administration. (p 867)**
-29. **Discuss other methods of medication administration, including the buccal, ocular, and aural routes. (pp 867–869)**
-30. **Discuss the advantages, disadvantages, and techniques of intranasal medication administration. (p 869)**
-31. **Discuss the advantages, disadvantages, and techniques of inhaled medication administration. (pp 869– 875)**
-32. **Discuss the rates at which medication is absorbed through various routes. (p 878)**
+18. **Discuss the advantages, disadvantages, and techniques for establishing an intraosseous (IO) line. (pp 827–834)**
+19. **List the types of IO devices available. (pp 829–831)**
+
+`IO infusion is a technique in which fluids and medications are administered through the intraosseus space of the Proximal Tibia/Humeral Head/Sternum.`
+`Primarily used for when an IV is inaccessible.`
+`Establishing an IO line varies on location`
+
+`Humeral IO Site: Placing the pt.s hand over their abdomen to force the humeral head to rotate. Placing the ulnar part of the hand laterally on the midline of the upper portion of the pt.s humerus. Placing your thumbs together palpate up the surgical neck to humeral head. It is important to use proper stabilization techniques and the appropriate needle selection for this to work.`
+
+`Sternal IO Site: Palpate the sternal notch and apply IO access device.`
+
+`Proximal Tibia IO Site: The flat bone of the Proximal Tibia is located medial to the Tibial Tuberosity (The bony protuberance right below the knee). It is necessary to feel the leg to differentiate between landmarks. Locate the Tibial Tuberosity, then palpate 0.8 inches medially for adult pt.s; for Pediatrics palpate 0.4-0.8 inches distally to avoid the epiphyseal plate.`
+
+`Distal Tibia IO Site: Identify the medial malleolus, then palpate 0.8 inches to 1.2 inches above that site. In pediatrics palpate 0.4-0.8 inches above the medial malleolus.
+
+`Different devices are used for IO access from manual drills, automatic drills, and spring loaded needles, there are also FAST devices for sternal use.`
+
+20. **Discuss the potential complications of IO infusion. (pp 831-834)
+
+`Complications of IO infusion:`
+`When proper technique is used, then IO infusion has a relatively low complication rate. The same complications in IV infusions can be seen in IO infusions as well as a few extra.`
+
+`Infiltration: When the IO needle is placed outside of the bone, causing for IV fluids to collect in soft tissues.`
+`Causes: Improper technique/Bone fracture.`
+`Signs+Symptoms: Infusion is not flowing properly/Rapid edema onset`
+`Treatment: Discontinue the infusion immediately and reattempt insertion in the opposite leg. Undetected infiltration can cause compartment syndrome, which can lead to vascular compromise and even loss of the leg.`
+
+`Osteomyelitis: Inflammation of the bone and muscle caused by an infection.
+
+`Failure to identify the proper anatomic landmark can damage the growth plate, potentially resulting in long-term growth abnormalities in children.`
+
+`Failure to use the appropriate IO needle size can result in fractures.`
+
+`Through-and-through insertion occurs when the IO needle passes through both sides of the bone. To prevent this stop drilling after you hear a pop sound, as this means you're already in the bone.`
+`Treatment: Remove the needle and try the other extremity.`
+
+`Pulmonary Embolism: Its a pulmonary embolism.`
+`Causes: IO insertion can sometimes cause pieces of bone/fat/marrow to enter the systemic circulation and lodge itself in a pulmonary artery.`
+`Signs+Symptoms: Acute SOB/Pleuritic chest pain/Cyanosis.`
+
+`Contraindications: include a Functional IV line availability/Fracture/Various bone degrading diseases/Bilateral knee replacements/Prosthetic limb at IO site.`
+
+21. **Discuss the systems of weights and measures used when administering medication. (pp 837–840)**
+22. **Explain the principles of drug dose calculations, including desired dose, concentration on hand, volume on hand, volume to administer, and IV drip rate. (pp 839–843)**
+23. **Discuss the advantages, disadvantages, and techniques of oral medication administration. (pp 843–844)**
+24. **Discuss the advantages, disadvantages, and techniques of rectal medication administration. (pp 844–845)**
+25. **Discuss the advantages, disadvantages, and techniques of intradermal medication administration. (pp 852–853)**
+26. **Discuss the advantages, disadvantages, and techniques of subcutaneous medication administration. (pp 853–854)**
+27. **Discuss the advantages, disadvantages, and techniques of intramuscular medication administration. (pp 855–857)**
+28. **Discuss the advantages, disadvantages, and techniques of IV medication administration. (pp 857–864)**
+29. **Discuss the advantages, disadvantages, and techniques of IO medication administration. (pp 864–865)**
+30. **Discuss the advantages, disadvantages, and techniques of transdermal medication administration. (pp 865–867)**
+31. **Discuss the advantages, disadvantages, and techniques of sublingual medication administration. (p 867)**
+32. **Discuss other methods of medication administration, including the buccal, ocular, and aural routes. (pp 867–869)**
+33. **Discuss the advantages, disadvantages, and techniques of intranasal medication administration. (p 869)**
+34. **Discuss the advantages, disadvantages, and techniques of inhaled medication administration. (pp 869– 875)**
+35. **Discuss the rates at which medication is absorbed through various routes. (p 878)**

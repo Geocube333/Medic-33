@@ -1,237 +1,38 @@
 
 
+
 1. **Differentiate between laws and ethics. (pp 118–119)**
 
+`Laws are our rights and the rights of others, one cannot impede on neither your own or a pt.s rights. Ethics are a set of principles each person operates on, although these shouldn't be walked over sometimes it may be necessary to do so.`
   
+1. **Describe medical ethics, including the implications for paramedics. (pp 119–123)**
 
-Laws define our obligations and protect our rights and the rights of others. Ethics are principles, either personal or societal, that determine what is right and wrong
+`Personal ethics are catered to each person and can be affected by your own life experiences, Medical ethics derive from a series professional practices and standards. `
 
-  
+2. **Discuss the legal system in the United States and how it affects paramedics. (pp 123–124)**
 
-Ethics is the branch of philosophy that deals with the study and understanding of
+`The legal system is responsible for setting and applying negligence standards`
 
-the distinction between right and wrong and how people apply concepts of right and
+3. **Differentiate between civil and criminal law relevant to paramedics. (pp 124–126)**
 
-wrong to their personal and professional lives
+  `Civil law is when a pt. sues for a perceived injury while criminal law prosecutes a practiononer for breaking legal statutes.`
 
-  
+4. **Describe the process of a typical lawsuit against emergency medical services. (pp 126–127)**
 
-2. **Describe medical ethics, including the implications for paramedics. (pp 119–123)**
+`A civil lawsuit begins with a pt. that contacts an attorney who files a complaint for a pt.`  
 
-  
+`An attorney will get assigned to an EMS agent through an insurance company usually the insurance company will be that of an employer, government agency, or a private agency. The practiononers attorney will then answer to the complaint filed against you; after this the discovery period begins in which both parties gather evidence.`  
 
-Personal ethics are the product of your upbringing, family and community influences, your religious background, and your conscience. On the other hand, professional ethics arise out of your profession’s standards and practices
+`Most cases are resolved in the settlement process but in the even that a full trial takes place, the judge will decide what the law is while the jury decides on the facts. The trial is usually the last part of the judicial process but some cases can be appealed to higher courts.`
 
-  
 
-As a paramedic, you must always be ethical in your practice and be aware of your
+5. **Discuss the legal and ethical accountability of paramedics. (pp 127–128)**
 
-own moral standards in your daily work. The interests of your patient should take
+`A paramedic will be held accountable for their own actions, however a Medical director can be held legally accountable for failing to supervise you closely enough or failure to ensure that your performance is not up to standard. A medic cannot follow an order that is outside of your practice.`  
 
-precedence over your personal beliefs and standards
+6. **Discuss legislation that affects paramedic practice. (p 128)**
 
-  
-
- It is a safe generalization to say that if you
-
-place the patient’s welfare ahead of all other considerations, you will rarely (if ever)
-
-commit an unethical act in the practice of emergency medical care.
-
-  
-
-(1) to do no harm, (2) to act in good faith, and (3) to always act in the patient’s
-
-best interest.
-
-  
-
-As a paramedic, you must be accountable for your actions at all times. How you
-
-handle teamwork, your personal attitude on the job, justice and respect for patient
-
-autonomy, and cultural or lifestyle diversity will ultimately shape your career.
-
-Consider what type of paramedic you want to become Figure 4-4. It is helpful for
-
-you, as a new paramedic, to choose a mentor whose style and professionalism you
-
-wish to emulate.
-
-  
-  
-  
-  
-  
-
-3. **Discuss the legal system in the United States and how it affects paramedics. (pp 123–124)**
-
-  
-
-In most cases, these court decisions establish negligence standards (discussed later in this chapter) that will apply if a patient sues you
-
-  
-  
-
-4. **Differentiate between civil and criminal law relevant to paramedics. (pp 124–126)**
-
-  
-
-civil law, under which a patient can sue you for a perceived injury
-
-criminal law, under which the state can prosecute you for breaking a legal statute
-
-  
-
-5. **Describe the process of a typical lawsuit against emergency medical services. (pp 126–127)**
-
-  
-
-A civil lawsuit begins when a dissatisfied patient contacts an attorney, who then files
-
-a document for a lawsuit (called a complaint) on behalf of the patient with a local
-
-court. The court where the action is first filed is generally referred to as the court of
-
-original jurisdiction. In the context of EMS, the complaint will contain the general
-
-allegations against you and the EMS system, but may not contain much specific
-
-information about what the patient thinks went wrong. The patient’s attorney (or the
-
-attorney’s staff) must hand-deliver a copy of the complaint and a notice called a
-
-summons to all people or agencies named in the lawsuit, notifying them of the
-
-complaint and the need to respond.
-
-  
-
-Your attorney will usually be assigned to you by the insurance company that
-
-handles your employer’s claims, whether the employer is a government or private
-
-agency. The response, or answer to the complaint, will be filed by your attorney.
-
-After the complaint is filed and you (through your attorney) have answered, an
-
-interval known as the discovery period begins. The discovery period can last
-
-anywhere from a few months to more than 2 years Figure 4-8. During the discovery
-
-period, attorneys on both sides seek to find out as much about the case as possible.
-
-They will exchange written questions that the parties must answer under oath,
-
-exchange documents such as the patient’s medical record, and take depositions
-
-(statements recorded under oath). Stay in touch with your attorney during this time
-
-and ask for a full explanation of everything that is happening. Your attorney will also
-
-prepare you for a deposition, instructing you where to go, what to wear, and how to
-
-respond to certain types of questions.
-
-  
-
-Attorneys may also file motions (requests for the court to take an action) and
-
-argue them before the judge.
-
-  
-
-Most civil cases are resolved during a settlement process because it is expensive
-
-and time-consuming to take a case through trial. Settlement processes bring the
-
-parties and their attorneys together for mediation, which is a conference set up to
-
-see if the parties can agree on a dollar amount that will resolve the case, or
-
-arbitration, which is a mini-trial in which a single arbitrator or a panel of arbitrators
-
-makes a decision based on the evidence presented by both sides.
-
-If the case is not resolved during the settlement process, then it will proceed to
-
-trial. During a trial, the judge rules on what the law is and the jury decides what the
-
-facts are. Trial juries can be unpredictable; if they perceive that the EMS system has
-
-failed to meet community standards, then large monetary damages can be
-
-rewarded. In most cases, the trial will be the final step in the judicial process, but the
-
-party that loses at trial always has the right to have the decision reviewed by an
-
-appellate court
-
-  
-
-==============================================================
-
-  
-
-6. **Discuss the legal and ethical accountability of paramedics. (pp 127–128)**
-
-  
-
-Ultimately, you have three lines of authority to answer within the EMS system: your medical director, the licensing agency, and your employer.
-
-  
-
-Your actions as a paramedic, therefore, are not the physician’s actions, and you
-
-will be held accountable for your own actions. However, the medical director can be
-
-held legally accountable for failing to supervise you closely enough, or for failing to
-
-take action if your performance is not up to standard.
-
-  
-
-Many of your activities as a paramedic require an order from a licensed physician.
-
-Orders may be given by radio or mobile phone (online medical control), or they may
-
-be defined by protocols or standing orders (off-line medical control). In any case, you
-
-are not at liberty to disregard or reverse a physician’s order unless you truly believe
-
-that carrying out the order will harm the patient
-
-  
-
-A physician is not required to ride to the ED with EMS personnel unless that
-
-physician has performed procedures above the EMS providers’ level or has
-
-otherwise assumed responsibility for patient care. Always be sure that the physician
-
-is licensed in your state, and document the physician’s name and contact
-
-information before allowing a physician to provide patient care.
-
-  
-
-Do not follow a physician’s order that falls outside of your scope of practice. Such action would fall under the borrowed servant doctrine, a principle that absolves your institution from liability when you act beyond your scope of certification or training by following someone else’s orders
-
-  
-
-7. **Discuss legislation that affects paramedic practice. (p 128)**
-
-  
-
-Administrative regulations set forth by bureaucracies at state and federal levels
-
-affect and define the specific rules under which paramedics practice. For example,
-
-regulations may set out the specific skills and medications to be used by each EMS
-
-provider level
-
-  
+`Legislation provided by the government defines the scope of a medics practice, this extends to what procedures and medications we can give out.`  
 
 The terms licensure and certification are often confused because, in some states,
 
@@ -247,244 +48,34 @@ practice.
 
   
 
-8. **Differentiate between licensure and certification as they apply to paramedic practice. (pp 128–129)**
+7. **Differentiate between licensure and certification as they apply to paramedic practice. (pp 128–129)**
+
+`Certification generally refers to a credential based training that ensures a minimal level of competency. Certifications may be granted by a government agency or a private organization. Licensure refers to a defined level of practive that is usally granted by a government agency or local authority, a license is a privilege granted by the government; thus requiring you to maintain certain standards. Licensure cannot be transferred across states.`
+
+8. **Explain the importance and necessity of patient confidentiality and the standards for maintaining patient confidentiality applicable to paramedic practice. (pp 129–130)**
+
+`Pt. confidentiality protects the pt.s right to privacy. This makes it so a medic doesn't have to respond to press in regards to a pt., it also makes it so a medic cannot share stories about their pt.s as well.`
+
+9. **Discuss the legal and ethical issues surrounding patient transport. (p 133)**
+
+`A medic has to make sure to never take in a pt. for transport that needs Emergency medical care beyond their own scope of practice; a pt. must be stable to transfer. Emergency vehicles have their own set of laws that does not include driving recklessly. Failures in transporting pt.s whose conditions can deteriorate can bring about lawsuits that are hard to defend.`  
+
+10. **Describe the actions that you should take to preserve evidence at a crime or motor vehicle crash scene. (pp 133–134)**
+
+`Crime scene ettiquette is important, a medic should try to disturb a potential crime scene as little as possible, they are also required to carefully document statements made by witnesses. It is important to limit the amount of personnel at the scene and to also preserve any clothing that is removed from the pt.`  
+
+`Certain cases can call for you to carry vital pieces of evidence such as hairs, fibers, or bodily fluids. In scenes that involve death it is important to stay with the body until police arrive. If there is any doubt about saving the pt. that is still our number one priority, even if it means leaving the scene.`
+
+11. **Explain the mandatory reporting requirements for special situations, including abuse or neglect, drug-related injuries, childbirth, suicide, and crime scenes. (p 134)**
 
   
+`There are many different reporting requirements from state to state. But in cases of abuse/neglect it is important to alert the appropriate authorities; Suicides and crime scenes will usually have you reporting to police.`
 
-Certification generally refers to a certain level of credentials based on hours of
+12. **Differentiate between expressed, informed, implied, and involuntary consent. (pp 135–136)**
 
-training and assessment exams, and addresses criteria that must be met for
+`Expressed consent is when a pt. either takes an action or verbalizes that they agree to treatment. Informed consent is when a pt. agrees to a treatment option even after being education on the Nature of the disease and the risks/benefits of treatment. Implied consent is given when a pt. is unable to give consent themselves but would normally comply in a normal circumstance. Involuntary consent is when treatment is forced onto a pt. by a governing body that is not the pt.`
 
-minimum competency. Certification may be granted by a governmental agency or a
-
-private organization (eg, American Heart Association, American Red Cross,
-
-Emergency Care and Safety Institute, Health and Safety Institute, National Safety
-
-Council). The fact that you have received certification from a private organization
-
-does not necessarily mean that you have the authority to practice the skills included
-
-in that certification.
-
-  
-
-Licensure refers to a carefully defined level of practice, usually granted by a
-
-government agency or local authority such as a state health department or county
-
-EMS authority. Often, these agencies themselves create and administer the
-
-licensing exams. A license is a privilege granted by a government authority on
-
-certain conditions. You must comply with the government’s requirements for
-
-professional behavior, continuing education, and licensure renewal, or risk losing
-
-that privilege. The rights and privileges conferred by licensing in one state may not
-
-be conferred in other states that certify, rather than license, paramedics.
-
-  
-
-9. **Explain the importance and necessity of patient confidentiality and the standards for maintaining patient confidentiality applicable to paramedic practice. (pp 129–130)**
-
-  
-
-It protects a person’s protected health information (PHI), which is any identifiable health
-
-information created, disclosed, used, maintained, stored, or transmitted that is
-
-related to providing a health care service
-
-  
-
-Medical information can be disclosed only if it is necessary for a patient’s
-
-treatment, for payment or medical billing purposes, or when the release has been
-
-authorized in writing by the patient or a lawful patient representative
-
-  
-
-HIPAA was created not to stop the flow and continuity of a patient’s health care information, but rather to control the distribution of information to ensure the patient’s privacy.
-
-  
-
-You cannot casually discuss a patient in places where you might be
-
-overheard, such as in an elevator or hospital cafeteria Figure 4-9. Use caution when
-
-giving reports or discussing patient information in other public places such as crash
-
-scenes or common areas in the ED. Sharing patient stories with other paramedics
-
-may subject you to liability. Similarly, use caution when members of the media or the
-
-public are riding with your service to ensure PHI is not disclosed without the patient’s
-
-consent.
-
-  
-
-HIPAA requires you to provide patients with a copy of your service’s privacy
-
-policies. Although this step can often be challenging to perform in an emergency
-
-setting, you must do the best that you can to comply with the law. Most services
-
-create multi page leaflets that can be handed out to patients for this purpose.
-
-  
-
-Confidentiality is also a part of the Code of Ethics for
-
-Emergency Medical Technicians issued by NAEMT. If your service receives a
-
-subpoena for a patient’s PHI, then be sure to notify legal counsel before releasing
-
-the patient’s medical record to anyone.
-
-  
-  
-
-10. **Discuss the legal and ethical issues surrounding patient transport. (p 133)**
-
-  
-
-in recent years, economic triage has been introduced. This term refers to the
-
-practice of making health care decisions based on the ability of the patient or the
-
-insurance carrier to provide payment for services.
-
-  
-  
-
-As a paramedic, it is also vital that you clearly understand local protocols
-
-regarding the choice of hospitals to which you may transfer patients. Only one
-
-hospital may be available in some rural areas, but several options may be available
-
-in other places.
-
-  
-
-EMTALA also regulates patient transfers and applies to both the sending and
-
-receiving facilities. As a paramedic, you should never transfer a patient between
-
-facilities who needs emergency medical care that falls outside your scope of
-
-practice, and you must feel comfortable that the patient is stable enough to transfer.
-
-  
-
-Laws governing emergency vehicle operations do not authorize speeding, running red lights, or driving the vehicle in an unsafe manner if any of those activities puts the public at unreasonable risk.
-
-  
-
-Failure to transport a patient whose condition later deteriorates can bring about a lawsuit that is difficult to defend. Again, most EMS systems have protocols outlining when it is acceptable not to transport a patient, and many require consultation with online medical control.
-
-  
-  
-
-11. **Describe the actions that you should take to preserve evidence at a crime or motor vehicle crash scene. (pp 133–134)**
-
-  
-  
-
- If the scene is a vehicle crash, then do not move anything unless doing so is
-
-absolutely necessary to provide care
-
-  
-
-If the incident scene is indoors, then do not touch anything you do not have to
-
-touch, such as telephones or doorknobs, because of the risk of eliminating
-
-fingerprints. Carefully document any statements made by witnesses and get their
-
-contact information. Limit the number of EMS personnel who enter the scene,
-
-because each person who enters the scene further contaminates what may later turn
-
-out to be a crime scene. If it is necessary to move furniture or other objects, then
-
-notify law enforcement personnel that you have done so. Preserve any clothing that
-
-you remove from the patient, and make every attempt not to alter evidence on the
-
-clothing
-
-  
-
-In cases of sexual assault, the patient may carry vital pieces of evidence such as
-
-fiber, hair, semen, or blood on the body. Take care to protect this evidence.
-
-If the scene involves a death, then stay with the body until the police arrive.
-
-Protect the scene from contamination by bystanders, family members, media, or
-
-additional EMS personnel.
-
-If you have any doubt about the possibility of saving the patient, then initiate
-
-resuscitation and transport to the hospital.
-
-  
-  
-
-12. **Explain the mandatory reporting requirements for special situations, including abuse or neglect, drug-related injuries, childbirth, suicide, and crime scenes. (p 134)**
-
-  
-
-Because reporting requirements vary widely from state to state, learn the laws of
-
-your state and observe reporting obligations that apply to you.
-
-  
-
-13. **Differentiate between expressed, informed, implied, and involuntary consent. (pp 135–136)**
-
-  
-
-Informed consent is a patient’s voluntary agreement to be treated after being told
-
-about the nature of the disease, risks and benefits of the proposed treatment,
-
-alternative treatments, or the choice of no treatment at all. You must obtain informed
-
-consent from every adult patient who has decision-making capacity.
-
-  
-
- Expressed consent is a type of informed
-
-consent that occurs when the patient does something, either by telling you or by
-
-taking some sort of action, that demonstrates you have permission to provide
-
-emergency medical care.
-
-  
-
-Implied consent is a form of consent assumed to be given by unconscious adults
-
-or by adults who are too ill or injured to consent verbally to emergency life-saving
-
-treatment. It also applies to minors if no parent or guardian is present.
-
-  
-
-involuntary consent to refer to situations in which a law enforcement officer or a legal guardian grants permission to treat someone who is under arrest (or otherwise in custody), incapacitated, a minor, or for other reasons.
-
-  
-
-14. **Describe the processes you should use to determine consent or valid refusal, especially relative to the patient’s decision-making capacity. (pp 136–137)**
+13. **Describe the processes you should use to determine consent or valid refusal, especially relative to the patient’s decision-making capacity. (pp 136–137)**
 
   
 
@@ -506,7 +97,7 @@ treatment, that person may not be treated without a court order
 
   
 
-15. **Identify the steps to take if a patient refuses care, and when to transport a patient against the patient’s will. (pp 137–138)**
+14. **Identify the steps to take if a patient refuses care, and when to transport a patient against the patient’s will. (pp 137–138)**
 
   
 
@@ -578,7 +169,7 @@ given the authority to restrain and transport that person without consent.
   
   
 
-16. **Identify methods for obtaining consent for minors, including exceptions for emancipated minors. (pp 138–139)**
+15. **Identify methods for obtaining consent for minors, including exceptions for emancipated minors. (pp 138–139)**
 
   
 
@@ -624,7 +215,7 @@ consent or refusal.
 
   
 
-17. **Discuss the legal ramifications of patient restraint, both physical and chemical, for patient and practitioner safety. (pp 139–140)**
+16. **Discuss the legal ramifications of patient restraint, both physical and chemical, for patient and practitioner safety. (pp 139–140)**
 
   
 
@@ -632,7 +223,7 @@ Under the law, you can use force only in response to a patient’s use of force 
 
   
 
-18. **Define the four elements that must be present to prove negligence: duty, breach of duty, proximate cause, and damage (harm). (pp 140–143)**
+17. **Define the four elements that must be present to prove negligence: duty, breach of duty, proximate cause, and damage (harm). (pp 140–143)**
 
   
 
@@ -646,7 +237,7 @@ Harm resulted.
 
   
 
-19. **Discuss abandonment as it relates to paramedic practice. (pp 143–144)**
+18. **Discuss abandonment as it relates to paramedic practice. (pp 143–144)**
 
   
 
@@ -654,7 +245,7 @@ Abandonment is a form of negligence that involves the termination of medical car
 
   
 
-20. **Discuss patient rights, including autonomy, end-of-life decisions, and the moral and ethical implications of do not resuscitate orders and other advance directives. (pp 144–149)**
+19. **Discuss patient rights, including autonomy, end-of-life decisions, and the moral and ethical implications of do not resuscitate orders and other advance directives. (pp 144–149)**
 
   
 
@@ -676,7 +267,7 @@ Never perform a procedure or administer a medication that you believe will be de
   
   
 
-21. **Identify situations in which it would be appropriate for you to cease resuscitation efforts or not to initiate resuscitation efforts in the field. (pp 148–149)**
+20. **Identify situations in which it would be appropriate for you to cease resuscitation efforts or not to initiate resuscitation efforts in the field. (pp 148–149)**
 
   
 
@@ -685,7 +276,7 @@ An advance directive is usually a written document (but can also be an oral stat
   
   
 
-22. **Discuss your responsibilities relative to resuscitation efforts for patients who are potential organ donors.** **(pp 149–150)**
+21. **Discuss your responsibilities relative to resuscitation efforts for patients who are potential organ donors.** **(pp 149–150)**
 
   
 
@@ -693,7 +284,7 @@ In specific circumstances, a patient who is not successfully resuscitated may be
 
   
 
-23. **Discuss common defenses to litigation, including contributory negligence. (p 150)**
+22. **Discuss common defenses to litigation, including contributory negligence. (p 150)**
 
   
 
@@ -705,7 +296,7 @@ potential defense is known as contributory negligence. This defense will apply w
 
   
 
-24. **Describe forms of legal immunity that can apply to you as a paramedic. (pp 150–151)**
+23. **Describe forms of legal immunity that can apply to you as a paramedic. (pp 150–151)**
 
   
 
@@ -725,7 +316,7 @@ paramedics work or volunteer for public agencies (eg, fire departments) and are 
 
   
 
-25. **Discuss employment legislation regarding sexual harassment, discrimination, disabilities, the Family**
+24. **Discuss employment legislation regarding sexual harassment, discrimination, disabilities, the Family**
 
 and Medical Leave Act (FMLA), Occupational Safety and Health Administration law, and other
 
