@@ -237,7 +237,7 @@
 
 `Weights and measures are calculated in Grams and Liters. Conversion rates are usually seen in strengths of thousands (ie 1kg=1000g 1g=1000mg 1mg=1000ug etc.)`
 
-1. **Explain the principles of drug dose calculations, including desired dose, concentration on hand, volume on hand, volume to administer, and IV drip rate. (pp 839–843)**
+22. **Explain the principles of drug dose calculations, including desired dose,  on hand, volume on hand, volume to administer, and IV drip rate. (pp 839–843)**
 
 `In order to do drug calculations we need to understand the following:`
 `Desired Dose: The amount of a drug that is ordered`
@@ -245,16 +245,125 @@
 `Volume to be Administered: How much mL are you going to administer to a pt.`
 
 
-2. **Discuss the advantages, disadvantages, and techniques of oral medication administration. (pp 843–844)**
-3. **Discuss the advantages, disadvantages, and techniques of rectal medication administration. (pp 844–845)**
-4. **Discuss the advantages, disadvantages, and techniques of intradermal medication administration. (pp 852–853)**
-5. **Discuss the advantages, disadvantages, and techniques of subcutaneous medication administration. (pp 853–854)**
-6. **Discuss the advantages, disadvantages, and techniques of intramuscular medication administration. (pp 855–857)**
-7. **Discuss the advantages, disadvantages, and techniques of IV medication administration. (pp 857–864)**
-8. **Discuss the advantages, disadvantages, and techniques of IO medication administration. (pp 864–865)**
-9. **Discuss the advantages, disadvantages, and techniques of transdermal medication administration. (pp 865–867)**
-10. **Discuss the advantages, disadvantages, and techniques of sublingual medication administration. (p 867)**
-11. **Discuss other methods of medication administration, including the buccal, ocular, and aural routes. (pp 867–869)**
-12. **Discuss the advantages, disadvantages, and techniques of intranasal medication administration. (p 869)**
-13. **Discuss the advantages, disadvantages, and techniques of inhaled medication administration. (pp 869– 875)**
-14. **Discuss the rates at which medication is absorbed through various routes. (p 878)**
+23. **Discuss the advantages, disadvantages, and techniques of oral medication administration. (pp 843–844)**
+
+`Oral drugs are easy to give, readily available, and come in many different forms making it useful for when a pt. may be afraid of injections, also due to the variety of Liquid and Tablet pills if a pt. cannot swallow a pill sometimes a liquid version may be available.`
+`Unfortunately Oral medications are absorbed in the GI which means they have a pretty slow absorption rate (30-90 minutes.)`
+`Oral medications can be given in Teaspoons/Medicine cups/Syringes/Droppers.`
+
+`Always take standard precautions including: Need for the medication/No conflicting history or allergies/Making sure it's within your scope/Checking the integrity of the medication/Giving the appropriate dose/Properly informing the pt. on how to take the medication/Monitor+document pt. meds and condition.`
+
+`Sometimes it will be necessary to give medications through a gastric tube.`
+
+24. **Discuss the advantages, disadvantages, and techniques of rectal medication administration. (pp 844–845)**
+
+`Rectal medications can be given in cases where IV+IO access is not available.`
+`The rate of absorbtion is rather fast due to the vascularity of the ractal mucosa.`
+`Although useful many patients would most likely prefer an alternative route if given the choice.`
+
+`Follow standard precautions when administering rectally but keep a note to use a water soluble gel for lubrication of a suppository. Liquid medications may require some engineering in order to be recieved by a pt. common methods include using a small ET tube/IV catheter without a needle/NPAs, fortunately some agencies carry commercial devices for this procedure.`
+
+25. **Discuss the advantages, disadvantages, and techniques of intradermal medication administration. (pp 852–853)**
+
+`Intradermal is an injection given under the skin. It is a good practice to avoid areas that contain superficial blood vessels.`
+`Common injection sites include the anterior forearm and upper back.`
+`Intradermal injections are typically slower in its rate of absorption and is usually localized.`
+`Intradermal injections have few uses in EMS outside of applying a local anesthetic in patients.`
+
+`Take standard precautions and inject at a 10-15 degree angle after cleaning it with an aseptic technique.` 
+
+26. **Discuss the advantages, disadvantages, and techniques of subcutaneous medication administration. (pp 853–854)**
+
+`Subcutaneous injections are injections that take place under the skin, some medications may be irritating to the tissues and should be avoided for that reason.`
+`Absorption rates vary depending on the water solubility of the drug and the blood flow to the injection site.`
+`Subcutaneous injections should be avoided in pt.s with shock or if the injection site is swollen/burnt.`
+
+`Take standard precautions and inject at a 90 degree angle after cleaning with an aseptic technique.`
+
+27. **Discuss the advantages, disadvantages, and techniques of intramuscular medication administration. (pp 855–857)**
+
+`Intramuscular injections go straight to the muscles. This route is commonly seen as an alternative for when a medication cannot be given orally or is too irritable to the subcutaneous tissues.`
+`With a rapid onset due to there being a lot of blood flow in our muscles.`
+`Due to muscles being found everywhere on the body, these injections can also be given in a wide variety of locations.`
+`IM injections should not exceed more than 5mLs (2mLs in pediatrics) and should be given in thicker/more volumptious locations. IM injections can damage nerves the correct locations are important to use.`
+
+`Vastus lateralis: Large muscle on the lateral side of the thigh.`
+`Rectus femoris: Large muscle on the anterior side of the thigh.`
+`Gluteal are: The upper lateral aspect of the buttocks, upper outer areas are less likely to have nerves.`
+`Deltoid muscle: The muscle of the upper arm that covers the shoulder, around 4-5cms below the acromion process of the lateral side.`
+
+`Use standard precautions, inject at a 90 degree angle after cleaning the area with a aseptic technique.`
+
+28. **Discuss the advantages, disadvantages, and techniques of IV medication administration. (pp 857–864)**
+
+`Intravenous Injections are given through the veins and have the fastest rate of absorption alongside IO injections. IV lines requires you to be precise with your medication administration and doesn't allow much room for error due to it having minimal barriers for absorption.`
+
+`IV medications work best with an IV access port and usually require catheterization. On top of this IV medications are also usually paired with fluid boluses causing for a medic to have to formulate dosages on the fly.`
+
+`Improper catheterization techniques and use can cause for many complications to occur. It is best to use standard precautions and to use aseptic techniques while acquiring IV lines and giving IV medications.`
+
+29. **Discuss the advantages, disadvantages, and techniques of IO medication administration. (pp 864–865)**
+
+`Intraosseous injections are typically drilled into the proximal tibia, IO is usually used as a last resort for when IV access is unobtainable.
+`IO access is easily obtainable but come with its own set of risks if setup improperly, it also cannot be used in pt.s with certain bone diseases.`
+`Giving medications via IO can often times hurt your pt. as you increase the intraosseous pressure upon administration, it is often advised to give lidocaine to help numb the area before medication administration.`
+
+`Improper catheterization techniques and use can cause multiple complications, most of which are similar to the complications found in IVs. It is best to use standard precautions and use an aseptic technique when acquiring and utilizing IO medications.`
+
+30. **Discuss the advantages, disadvantages, and techniques of transdermal medication administration. (pp 865–867)**
+
+`Transdermal medications pass through the skin, although the skin is usually an effective barrier to medication absorption some medications are deigned be released slowly into the body over time.`
+`Thin and nonintact skin caneffect the rate of administration.`
+`Medics will usuaully assist a pt. with their own transdermal medications as we don't usually carry such treatments.`
+
+`Use standard precautions and make sure the skin is dry upon application.`
+
+31. **Discuss the advantages, disadvantages, and techniques of sublingual medication administration. (p 867)**
+
+`Due to the high vascularity of the sublingual region, medications administered through this route are rapidly absorbed. These medications get administered much faster. Sometimes medications can even be injected into the network of veins in this area (known as the venous plexus) although this technique is often seen in giving opiod antagonists since pt.s with heroin overdoses often have subpar vascular structures.`
+
+`Use standard precautions when giving medications sublingually.`
+
+32. **Discuss other methods of medication administration, including the buccal, ocular, and aural routes. (pp 867–869)**
+
+`The buccal region is another highly vascular structure that lies between the cheek and gums, most medications administered to this region are either tablets or gels.`
+`Take standard precautions.`
+
+`Ocular medications are usually given to help with pain, allergies, dry eye, or infections. Ocular medication administration is pretty rare as a Medic.`
+`Take standard precautions.`
+
+`Aural medications are mostly antibiotics/analgesics/ear wax removal. These medications are administered through mucous membranes located in the ear canal. Aural routes are rarely used by Medics.`
+
+33. **Discuss the advantages, disadvantages, and techniques of intranasal medication administration. (p 869)**
+
+`IN routes deliver medication to the mucous membranes in the nasal passages. In recent years IN routes have been seeing a lot of usage by medics as these medications are rapidly absorbed, at an even faster rate than IM injections.`
+`IN medications are usually given via a MAD (mucosal atomizer device.)`
+`Only a few medications are able to be given intranasally due due the drugs molecular structures. IN medications often require a higher dose than IV drugs but it's always best to check with local protocol.`
+
+`Take standard precautions. Not all IN meds come pre-packaged and some may have to use the MAD device in order for you to get medication in the nose.`
+
+34. **Discuss the advantages, disadvantages, and techniques of inhaled medication administration. (pp 869– 875)**
+
+`Inhaled medications are best used in respiratory emergencies as you can get the medication straight into the lungs. Sometimes pt.s will carry their own metered-dose inhalers (MDI), but medics do carry their own set of inhaled medications.`
+`Sometimes pt.s aren't properly educated on how to use their inhaled medications and end up administering it incorrectly. Medciations may also be administered through nebulizers.`
+
+`Some pt.s will need an ET tube in palce is order to effectively breathe. In these cases a pt. may not be able to use nebulizers or MDIs; when this happens it is possible to use a small-volume nebulizer in-line with the assistive device. 
+`If the pt. is intubated assist with a Bag mask ventilator or use a ventilator by placing a short tube separated with a T piece to connect a nebulizer.`
+`If the pt. is using CPAP most manufactures provide a nebulizer that is designed to work with their device.`
+
+`Take standard precautions and properly instruct pt.s on how to use various inhalation devices.`
+
+35. **Discuss the rates at which medication is absorbed through various routes. (p 878)**
+
+`Medication routes and their speeds:`
+`IO:          30-60s`
+`IV:          30-60s`
+`ET:          2-3m`
+`Inhaled:     2-3m`
+`IN:          3-5m`
+`SL:          3-5m`
+`IM:          10-20m`
+`SQ:          15-30m`
+`Rectal:      5-30m`
+`PO:          30-90m`
+`Transdermal: minutes to hours.`
